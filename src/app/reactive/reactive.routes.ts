@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
 
-export const authRoutes: Routes = [
+export const reactiveRoutes: Routes = [
   {
     path: '',
     children: [
